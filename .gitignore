@@ -1,0 +1,6 @@
+.gradle/
+build/
+cowin.iml
+gradle/
+gradlew*
+out
