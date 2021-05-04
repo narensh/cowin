@@ -1,7 +1,8 @@
-> Usage Instructions:
+> Usage Instructions below. Also, checkout SampleResponse.png for screenshot
 ```
 gradle run --args="<min_age_limit:18 or 45> <pincode_start_range> <pincode_end_range> <no_of_days_to_search_for>"
 ```
+
 > For the following data,
 min_age_limit = 18
 pincode_start_range = 110091
